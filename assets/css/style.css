@@ -1,0 +1,110 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  color: #000;
+  background: #FFFFFF;
+}
+
+.main {
+  margin: 20px 0 0 40px;
+  max-width: 500px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #000;
+  padding: 23px;
+  box-shadow: 0px 5px 10px #00F;
+}
+
+.wrapper {
+  padding: 20px 20px 20px 20px;
+}
+
+.me p{
+  font-size: 1.5em;
+  margin: 15px 0 15px 0;
+}
+
+.photo {
+  float: right;
+  position: relative;
+  width: 75px;
+  height: 75px;
+  background-size: 100px;
+  background-position: 0px 0px;
+  border-radius: 50%;
+  box-shadow: inset 0px 5px 10px rgba(0, 0, 0, 0.5);
+  background-image: url('../me.JPG')
+}
+
+.footer {
+  text-align: center;
+  position: relative;
+  height: 20px;
+  padding-top: 3px;
+}
+
+.footer img{
+  float: left;
+  margin: 0 5px 0 0;
+}
+
+.footer p{
+  font-size: 0.7em;
+  margin: 0;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 2em;
+}
+
+li {
+  padding: 3px 0 3px 0;
+}
+
+.navlink {
+  position: relative;
+  margin-left: 10px;
+}
+
+a {
+  color: #00F;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #800080;
+  text-decoration: underline;
+}
+
+
+h1 {
+  margin: 0;
+  font-size: 5em;
+  color: #00F;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  margin: 0;
+  font-size: 2em;
+  color: #000;
+}
+
+.fa {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+hr {
+    height: 6px;
+    background: url(../../images/hr.png) repeat-x 0 0;
+    border: 0;
+}

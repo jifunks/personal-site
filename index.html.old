@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<!--
+  Jake Funke
+  Theme based on Astral by HTML5 UP (html5up.net | @n33co)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Jake Funke</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--changes-->
+		<link href="assets/featherlight.min.css" type="text/css" rel="stylesheet" />
+		<link rel="icon" type="image/x-icon" href="favicon.ico" />
+		<!--endofchanges-->
+	</head>
+	<body>
+
+		<!-- Wrapper-->
+			<div id="wrapper">
+
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#me" class="icon fa-home active"><span>home</span></a>
+						<a href="http://github.com/jifunks" class="icon fa-github"><span>github</span></a>
+						<a href="#work" class="icon fa-folder"><span>work</span></a>
+						<a href="http://soundcloud.com/eyes_low" class="icon fa-soundcloud"><span>soundcloud</span></a>
+						<a href="http://eyes--low.tumblr.com" class="icon fa-tumblr"><span>tumblr</span></a>
+						<a href="mailto:jifunks@gmail.com" class="icon fa-envelope-o"><span>email</span></a>
+						
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Me -->
+							<article id="me" class="panel">
+								<header>
+									<h1>Jake Funke</h1>
+									<p>Los Angeles, CA</p>
+								</header>
+								<a href="#work" class="jumplink pic">
+									<span class="arrow icon fa-chevron-right"><span>see my work</span></span>
+									<img src="images/me.jpg" alt="" />
+								</a>
+							</article>
+
+						<!-- Work -->
+							<article id="work" class="panel">
+								<header>
+									<h2>Work</h2>
+								</header>
+							
+								<section>
+									<div class="row">
+										<div class="4u 12u$(mobile)">
+											<a href="images/001.jpg" class="image fit" data-featherlight="image"><img src="images/001.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/01.jpg" class="image fit" data-featherlight="image"><img src="images/01.jpg" alt=""></a>
+										</div>
+										<div class="4u$ 12u$(mobile)">
+											<a href="images/bl7.jpg" class="image fit" data-featherlight="image"><img src="images/bl7.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/taye5.jpg" class="image fit" data-featherlight="image"><img src="images/taye5.jpg" alt=""></a>
+										</div>		
+										<div class="4u 12u$(mobile)">
+											<a href="images/paypal5.jpg" class="image fit" data-featherlight="image"><img src="images/paypal5.jpg" alt=""></a>
+										</div>										
+										<div class="4u$ 12u$(mobile)">
+											<a href="images/05.jpg" class="image fit" data-featherlight="image"><img src="images/05.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/07.jpg" class="image fit" data-featherlight="image"><img src="images/07.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/03.jpg" class="image fit" data-featherlight="image"><img src="images/03.jpg" alt=""></a>
+										</div>
+										<div class="4u$ 12u$(mobile)">
+											<a href="images/06.jpg" class="image fit" data-featherlight="image"><img src="images/06.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/04.jpg" class="image fit" data-featherlight="image"><img src="images/04.jpg" alt=""></a>
+										</div>
+										<div class="4u 12u$(mobile)">
+											<a href="images/11.jpg" class="image fit" data-featherlight="image"><img src="images/11.jpg" alt=""></a>
+										</div>
+										<div class="4u$ 12u$(mobile)">
+											<a href="images/02.jpg" class="image fit" data-featherlight="image"><img src="images/02.jpg" alt=""></a>
+										</div>
+									</div>
+								</section>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<div id="footer">
+						<ul class="copyright">
+							<li>&copy; Jake Funke</li></li>
+						</ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<!--featherlight installation-->
+			<script src="assets/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

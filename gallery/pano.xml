@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17856" start="node1" appversion="6.1.1">
+  <panorama id="node1">
+    <input overlap="1" levelingpitch="0" width="1750" levelingroll="0" levelbias="0.400" height="1750" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1750" preload="0" height="1750" predecode="0"/>
+      <level width="875" preload="0" height="875" predecode="0"/>
+      <level width="437" preload="1" height="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.390768" pan="137.958" fov="70.6956" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" nodeid="node1" author="" copyright="" comment="" latitude="" title="Gallery 1" datetime="5/18/2020 1:12 PM" tags="New folder" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" wordwrap="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot skinid="ht_node2" url="{node2}" tilt="-8.11" pan="-178.39" target="" title="Gallery 2" id="Point01" description=""/>
+      <hotspot skinid="ht_info" url="" tilt="-3.21" pan="-323.38" target="" title="" id="Point02" description="Maaike Schoorel&#xa;Rügen Sunlight, 2020 &#xa;Oil on canvas &#xa;&#xa;63 x 47 in (160 x 119.4 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.87" pan="-349.61" target="" title="" id="Point03" description="Julius von Leypold&#xa;Wanderer in the Storm, 1835        &#xa;Oil on canvas  &#xa;       &#xa;16 3/4 x 22 1/4 in (42.5 x 56.5 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-3.42" pan="-25.56" target="" title="" id="Point04" description="Yanyan Huang&#xa;Cloud Poem Twirly, 2019        &#xa;Acrylic and ink on raw canvas&#xa;&#xa;72 x 60 in (185 x 152 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.84" pan="-44.41" target="" title="" id="Point05" description="Lee Krasner &#xa;Untitled, 1948 &#xa;Acrylic on paper&#xa;&#xa;30 x 25 in (76.2 x 63.5cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.74" pan="-62.86" target="" title="" id="Point06" description="Jenna Gribbon &#xa;If a woman reads a book in the forest but no one is there to see it..., 2020&#xa;Oil on canvas &#xa;&#xa;24 x 18 in (60.9 x 45.7 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.01" pan="-71.92" target="" title="" id="Point07" description="Élisabeth Vigée Le Brun&#xa;Comtesse de la Châtre, 1789&#xa;Oil on canvas &#xa;&#xa;45 x 34 1/2 in (114.3 x 87.6 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.91" pan="-97.79" target="" title="" id="Point08" description="Quintessa Matranga &#xa;Sleeping in My Dreams, 2019 &#xa;Gouache on paper &#xa;&#xa;18 x 24 in (45.7 x 60.9 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-2.73" pan="-111.8" target="" title="" id="Point09" description="Leonora Carrington &#xa;Self-Portrait, ca. 1937-38 &#xa;Oil on canvas &#xa;&#xa;25 9/16 x 32 in (65 x 81.3 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.49" pan="-127.62" target="" title="" id="Point10" description="Jakub Julian Ziółkowski &#xa;Hospitalized, 2020&#xa;Oil on canvas &#xa;&#xa;25 1/2 x 27 1/2 in (64.8 x 69.85 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-4.72" pan="-138.82" target="" title="" id="Point11" description="Michele Giambono &#xa;The Man of Sorrows, ca. 1430 &#xa;Tempera and gold on wood &#xa;&#xa;21 3/4 x 15 3/4 in. (55.3 x 40 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-3.02" pan="-274.85" target="" title="" id="Point12" description="Constance Tenvik&#xa;I have more memories than if I’d lived a thousand years (Edoardo spacing out), 2020&#xa;Gouache, charcoal and saffron on canvas &#xa;&#xa;39 3/8 x 78 3/4 in (100 x 200 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-2.72" pan="-301.98" target="" title="" id="Point13" description="John White Alexander&#xa;Repose, 1895 &#xa;Oil on canvas&#xa; &#xa;52 1/4 x 63 5/8 in (132.7 x 161.6 cm)"/>
+      <hotspot skinid="ht_image" url="images/Schoorel.jpg" tilt="-2.43" pan="-323.38" target="" title="" id="Point14" description=""/>
+      <hotspot skinid="ht_image" url="images/von Leypold_ Julius_Wandered im Sturm_1835.jpeg" tilt="-0.91" pan="-349.37" target="" title="" id="Point15" description=""/>
+      <hotspot skinid="ht_image" url="images/Yanyan Huang.jpg" tilt="-2.42" pan="-25.25" target="" title="" id="Point16" description=""/>
+      <hotspot skinid="ht_image" url="images/restricted (1).jpg" tilt="-1.77" pan="-44.29" target="" title="" id="Point17" description=""/>
+      <hotspot skinid="ht_image" url="images/Jenna Gribbon .jpeg" tilt="-1.84" pan="-63.02" target="" title="" id="Point18" description=""/>
+      <hotspot skinid="ht_image" url="images/Vigee Le Brun .jpg" tilt="-0.65" pan="-72.09" target="" title="" id="Point19" description=""/>
+      <hotspot skinid="ht_image" url="images/Quintessa_Matranga_003_.jpg" tilt="-1.52" pan="-97.56" target="" title="" id="Point20" description=""/>
+      <hotspot skinid="ht_image" url="images/Leonora Carrington fixed.jpg" tilt="-0.56" pan="-111.46" target="" title="" id="Point21" description=""/>
+      <hotspot skinid="ht_image" url="images/Zablowski, Jakub JulianHospitalized 2020 70x65cm oil on canvas_.jpg" tilt="-2.48" pan="-127.68" target="" title="" id="Point22" description=""/>
+      <hotspot skinid="ht_image" url="images/Michele Giambono copy.jpg" tilt="-2.69" pan="-139.2" target="" title="" id="Point23" description=""/>
+      <hotspot skinid="ht_image" url="images/Constance Tenvik.jpg" tilt="-1.98" pan="-274.86" target="" title="" id="Point24" description=""/>
+      <hotspot skinid="ht_image" url="images/John White Alexander.jpeg" tilt="-1.86" pan="-301.7" target="" title="" id="Point25" description=""/>
+      <hotspot skinid="ht_info" url="" tilt="-1.65" pan="-171.5" target="" title="" id="Point03" description="Master of Belmonte &#xa;Saint Michael, 1450-1500&#xa;Tempera and oil on wood&#xa;&#xa; 85 1/2 x 47 in (217.2 x 119.4 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-1.58" pan="-191.46" target="" title="" id="Point04" description="Mario Moore&#xa;Lonely Tire, 2020&#xa;Oil on panel&#xa;&#xa;66 x 12 in (40.6 x 30.5 cm) "/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendtime="1" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingpitch="0" width="1750" levelingroll="0" levelbias="0.400" height="1750" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1750" preload="0" height="1750" predecode="0"/>
+      <level width="875" preload="0" height="875" predecode="0"/>
+      <level width="437" preload="1" height="437" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.83295" pan="142.504" fov="91.7084" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata customnodeid="" nodeid="node2" author="" copyright="" comment="" latitude="" title="Gallery 2" datetime="5/18/2020 1:32 PM" tags="New folder" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" wordwrap="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot skinid="ht_node2" url="{node1}" tilt="-4.32" pan="-184.11" target="" title="Gallery 1" id="Point01" description=""/>
+      <hotspot skinid="ht_info" url="" tilt="-3.57" pan="-318.74" target="" title="" id="Point02" description="Daniele Milvio &#xa;Senza titolo, 2017 &#xa;Oil pastel and watercolor on canvas &#xa;&#xa;70 1/2 × 42 1/2 in (179 × 108 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-4.35" pan="-338.02" target="" title="" id="Point03" description="Master of Belmonte &#xa;Saint Michael, 1450-1500 &#xa;Tempera and oil on wood &#xa;&#xa;85 1/2 x 47 in (217.2 x 119.4 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-4.31" pan="-30.12" target="" title="" id="Point04" description="Mario Moore&#xa;Lonely Tire, 2020&#xa;Oil on panel&#xa;&#xa;16 x 12 in (40.6 x 30.5 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-2.93" pan="-50.89" target="" title="" id="Point05" description="Edward Hopper &#xa;From Williamsburg Bridge, 1928 &#xa;Oil on canvas &#xa;&#xa;29 3/8 × 43 3/4 in (74.6 × 111.1 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.14" pan="-82.48" target="" title="" id="Point06" description="Delia Brown &#xa;Modern Girl (yellow top), 2018&#xa;Oil on canvas &#xa;&#xa;24 x 18 in (60.9 x 45.7 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-3.06" pan="-109.22" target="" title="" id="Point07" description="Mary Stevenson Cassatt &#xa;Denise at Her Dressing Table, ca. 1908-09 &#xa;Oil on canvas &#xa;&#xa;32 7/8 x 27 1/8 in (83.5 x 68.9 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.06" pan="-131.96" target="" title="" id="Point08" description="Juan Araujo &#xa;Quarantine Self-Portrait, 2020 &#xa;Oil on canvas &#xa;&#xa;15 3/4 x 11 13/16 in (40 x 30 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.99" pan="-146.62" target="" title="" id="Point09" description="Giorgio de Chirico &#xa;Self-Portrait, 1912-13&#xa;Oil on canvas &#xa;&#xa;34 3/8 x 27 1/2 in. (87.3 x 69.9 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-3.83" pan="-223.94" target="" title="" id="Point10" description="Edvard Munch &#xa;Night in Saint-Cloud, 1893 &#xa;Oil on canvas &#xa;&#xa;27 9/16 x 22 5/16 in. (70 x 56.7 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.92" pan="-234.15" target="" title="" id="Point11" description="Clayton Schiff &#xa;Nightly Ritual, 2019 &#xa;Oil on canvas &#xa;&#xa;42 x 42 in (106.6 x 106.6 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.98" pan="-249.64" target="" title="" id="Point12" description="Fabrizio Arrieta&#xa;Alena, 2018 &#xa;Acrylic on canvas &#xa;&#xa;24 x 20 in (45.7 x 50.8 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-3.09" pan="-263.89" target="" title="" id="Point13" description="Pablo Picasso&#xa;Dora Maar in an Armchair, 1939 &#xa;Oil on canvas &#xa;&#xa;28 7/8 x 23 3/4 in. (73.3 x 60.3 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-2.81" pan="-288.4" target="" title="" id="Point14" description="Cynthia Talmadge &#xa;Chasen's, 2020 &#xa;Oil on linen &#xa;&#xa;20 x 26 in (50.8 x 66 cm) "/>
+      <hotspot skinid="ht_info" url="" tilt="-2.69" pan="-301.07" target="" title="" id="Point15" description="George Harvey &#xa;Rainstorm—Cider Mill at Redding, Connecticut, ca. 1840 &#xa;Watercolor and gouache on white wove paper &#xa;&#xa;8 3/8 x 13 5/8 in (21.3 x 34.6 cm)"/>
+      <hotspot skinid="ht_image" url="images/Daniele Milvio.jpg" tilt="-2.63" pan="-318.57" target="" title="" id="Point16" description=""/>
+      <hotspot skinid="ht_image" url="images/belmonte.jpg" tilt="-3.16" pan="-337.88" target="" title="" id="Point17" description=""/>
+      <hotspot skinid="ht_image" url="images/restricted.jpg" tilt="-2.28" pan="-50.75" target="" title="" id="Point18" description=""/>
+      <hotspot skinid="ht_image" url="images/Delia Brown .png" tilt="-1.66" pan="-82.37" target="" title="" id="Point19" description=""/>
+      <hotspot skinid="ht_image" url="images/Mary Stevenson Cassatt.jpeg" tilt="-2.49" pan="-109.07" target="" title="" id="Point20" description=""/>
+      <hotspot skinid="ht_image" url="images/Juan Araujo.jpg" tilt="-0.54" pan="-131.84" target="" title="" id="Point21" description=""/>
+      <hotspot skinid="ht_image" url="images/Giorgio de Chirico.jpeg" tilt="-2.95" pan="-146.35" target="" title="" id="Point22" description=""/>
+      <hotspot skinid="ht_image" url="images/night-in-saint-cloud.jpg" tilt="-2.73" pan="-223.96" target="" title="" id="Point23" description=""/>
+      <hotspot skinid="ht_image" url="images/Clayton Schiff.jpg" tilt="-1.89" pan="-233.85" target="" title="" id="Point24" description=""/>
+      <hotspot skinid="ht_image" url="images/FABRIZIO ARRIETA Alena,2.jpg" tilt="0.41" pan="-249.66" target="" title="" id="Point25" description=""/>
+      <hotspot skinid="ht_image" url="images/Picasso_Dora Maar.JPG" tilt="-1.58" pan="-263.69" target="" title="" id="Point26" description=""/>
+      <hotspot skinid="ht_image" url="images/Talmadge Chasens (1).jpg" tilt="-1.6" pan="-288.32" target="" title="" id="Point27" description=""/>
+      <hotspot skinid="ht_image" url="images/main-image-1 (1).jpg" tilt="0.42" pan="-300.79" target="" title="" id="Point28" description=""/>
+      <hotspot skinid="ht_image" url="images/Moore_Lonely tire.jpg" tilt="-3.39" pan="-29.94" target="" title="" id="Point29" description=""/>
+      <hotspot skinid="ht_info" url="" tilt="-1.51" pan="-191.69" target="" title="" id="Point04" description="Yanyan Huang&#xa;Cloud Poem Twirly, 2019        &#xa;Acrylic and ink on raw canvas&#xa;&#xa;72 x 60 in (185 x 152 cm)"/>
+      <hotspot skinid="ht_info" url="" tilt="-1.49" pan="-176.58" target="" title="" id="Point03" description="Julius von Leypold&#xa;Wanderer in the Storm,1835        &#xa;Oil on canvas  &#xa;       &#xa;16 3/4 x 22 1/4 in (42.5 x 56.5 cm) "/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendtime="1" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" dblclickfullscreen="0" hideabout="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" nodeid="master" author="" copyright="" comment="" latitude="" title="" datetime="" tags="" longitude="" description="" info="" source=""/>
+  </masternode>
+</tour>
